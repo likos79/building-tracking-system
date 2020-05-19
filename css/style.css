@@ -1,0 +1,38 @@
+body {
+    background-image: url("../images/design_buildings.jpg");
+    background-repeat: repeat-y;
+}
+
+#wrapper {
+    width: 400px;
+    margin: auto;
+}
+
+#box {
+    border: 1px solid #FFF;
+    padding: 10px;
+    background: rgba(255, 255, 255, 0.7);
+    border-radius: 10px;
+}
+
+.search {
+    margin-left: 60px;
+    margin-bottom: 20px;
+}
+
+.icons img {
+    max-height: 128px;
+    max-width: 128px;
+}
+
+#search_result {
+    background-color: rgba(255, 255, 255, 0.7);
+    border: 1px solid #FFF;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+#search_result img {
+    float: right;
+}
